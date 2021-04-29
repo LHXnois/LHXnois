@@ -1,3 +1,4 @@
+![LHXnois](https://count.getloli.com/get/@:LHXnois?theme=rule34)
 ### Hi there 👋
 
 <!--
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![LHXnois's github stats](https://github-readme-stats.vercel.app/api?username=LHXnois&show_icons=true&theme=tokyonight)
