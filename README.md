@@ -15,10 +15,10 @@ Here are some ideas to get me started to let you know me:
 - 😄 Pronouns: ... 咕咕咕
 - ⚡ Fun fact: ... 咕咕咕
 
-[![LHXnois's github stats](https://github-readme-stats.vercel.app/api?username=LHXnois&show_icons=true&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![LHXnois's github stats](https://github-readme-stats.vercel.app/api?username=LHXnois&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHXnois&layout=compact&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![LHXnois's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LHXnois&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
+[![LHXnois's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LHXnois&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
