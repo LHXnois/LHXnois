@@ -21,4 +21,4 @@ Here are some ideas to get me started to let you know me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHXnois&layout=compact&hide=c++)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-[![LHXnois's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LHXnois&theme=blueberry&hide_border=true&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
+[![LHXnois's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LHXnois&theme=blueberry&hide_border=true&range=last_7_days&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
