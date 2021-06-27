@@ -13,6 +13,7 @@
 
 Here are some ideas to get me started to let you know me:
 
+- ❤ like writing [![State-of-the-art Shitcode](https://img.shields.io/static/v1?label=State-of-the-art&message=Shitcode&color=7B5804)](https://github.com/trekhleb/state-of-the-art-shitcode)
 - 🔭 I’m currently working on ... 咕咕咕
 - 🌱 I’m currently learning ... 咕咕咕
 - 👯 I’m looking to collaborate on ... 咕咕咕
