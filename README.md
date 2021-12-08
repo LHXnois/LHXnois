@@ -1,3 +1,5 @@
+[![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=LHXnois%27s%20profile！&fontSize=50&desc=somthing%20to%20let%20you%20know%20me&animation=twinkling&fontAlignY=25&descAlignY=50)](https://github.com/kyechan99/capsule-render)
+
 <p>
   <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:LHXnois?theme=rule34"></a>
   <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1" align="right">
@@ -23,9 +25,13 @@ Here are some ideas to get me started to let you know me:
 - 😄 Pronouns: ... 咕咕咕
 - ⚡ Fun fact: ... 咕咕咕
 
-[![LHXnois's github stats](https://github-readme-stats.vercel.app/api?username=LHXnois&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+|[![LHXnois's github stats](https://github-readme-stats.vercel.app/api?username=LHXnois&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LHXnois&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
+| --- | --- |
 
 [![LHXnois's github activity graph](https://activity-graph.herokuapp.com/graph?username=LHXnois&theme=react-dark&hide_border=true&bg_color=242938&line=27E7A7&point=44CDEF&color=7395DF)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Game of Life](https://github4life.herokuapp.com/LHXnois.gif?z=6)](https://github.com/ethomson/github4life)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHXnois&layout=compact&hide=c++)](https://githubhttps://activity-graph.herokuapp.com/graph?username=LHXnois&theme=react-dark&hide_border=true&bg_color=242938&line=27E7A7&point=7395DF.com/anuraghazra/github-readme-stats)
 -->
