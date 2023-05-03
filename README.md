@@ -25,6 +25,8 @@ Here are some ideas to get me started to let you know me:
 - 😄 Pronouns: ... 咕咕咕
 - ⚡ Fun fact: ... 咕咕咕
 
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/LHXnoisbeam/)
+
 |[![LHXnois's github stats](https://github-readme-stats.vercel.app/api?username=LHXnois&show_icons=true&theme=blueberry&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=LHXnois&theme=blueberry&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)|
 | --- | --- |
 
