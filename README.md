@@ -1,7 +1,7 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=LHXnois%27s%20profile！&fontSize=50&desc=somthing%20to%20let%20you%20know%20me&animation=twinkling&fontAlignY=25&descAlignY=50)](https://github.com/kyechan99/capsule-render)
 
 <p>
-  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@:LHXnois?theme=rule34"></a>
+  <a href="https://count.getloli.com/"><img src="https://count.lolibest.ltd/get/@:LHXnois?theme=rule34"></a>
   <img src="https://weather-icon.journeyad.repl.co/@chengdu?v=1" align="right">
 </p>
 <!--
