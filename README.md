@@ -36,8 +36,30 @@ Here are some ideas to get me started to let you know me:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LHXnois&layout=compact&hide=c++)](https://githubhttps://activity-graph.herokuapp.com/graph?username=LHXnois&theme=react-dark&hide_border=true&bg_color=242938&line=27E7A7&point=7395DF.com/anuraghazra/github-readme-stats)
 -->
 
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+
 [![LHXnois's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LHXnois&theme=blueberry&hide_border=true&range=last_7_days&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</td>
+<td valign="top" width="50%">
+
+<!-- steam-box start -->
+#### <a href="https://gist.github.com/62fa160542e61ac240820bc0b02b5632" target="_blank">🎮 最近我在玩…</a>
+```text
+🚫 啊哦，最近好像没有玩过游戏呢
+```
+<!-- Powered by https://github.com/YouEclipse/steam-box . -->
+<!-- steam-box end -->
+
+[powered by steam-box](https://github.com/journey-ad/steam-box)
+
+</td>
+</tr>
+</table>
 ⬇️**点击下方图片留言**⬇️
 
 [![](https://chat.getloli.com/room/@LHXnois.github/svg?width=600&height=280&limit=20&theme=light&fontSize=13&title=LHXnois%E7%9A%84%E7%95%99%E8%A8%80%E6%9D%BF:%20~)](https://chat.getloli.com/room/@LHXnois.github?title=LHXnois%E7%9A%84%E7%95%99%E8%A8%80%E6%9D%BF)
